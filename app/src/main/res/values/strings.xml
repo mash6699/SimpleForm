@@ -18,4 +18,5 @@
 
 
     <string name="action_insert">Insentar</string>
+    <string name="action_lista">Ver lista</string>
 </resources>
